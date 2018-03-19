@@ -1,4 +1,4 @@
-#This code will check whether a given world is a palindrome or not.
+#This code will check whether a given word is a palindrome or not.
 
 def palindrome(x):
     x = x.lower()
@@ -7,4 +7,5 @@ def palindrome(x):
         print("Palindrome!")
     else:
         print("Not Palindrome")
-#Call youself to be a beginner in learning any programming when you write a code to identify palindromes.:)
+        
+#Sethu C A "Start calling youself to be a beginner in learning programming when you write a code to identify palindromes.":)
