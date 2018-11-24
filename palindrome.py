@@ -7,5 +7,7 @@ def palindrome(x):
         print("Palindrome!")
     else:
         print("Not Palindrome")
+
+palindrome(input(""))
         
 #Sethu C A "Start calling youself to be a beginner in learning programming when you write a code to identify palindromes.":)
