@@ -10,4 +10,4 @@ def palindrome(x):
 
 palindrome(input(""))
         
-#Sethu C A "Start calling youself to be a beginner in learning programming when you write a code to identify palindromes.":)
+#"Start calling youself to be a beginner in learning programming when you write a code to identify palindromes.":)
